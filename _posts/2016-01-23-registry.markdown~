@@ -4,18 +4,14 @@ title:  "Registry (or lack thereof)"
 date:   2016-01-19 08:24:29 -0500
 categories: jekyll update
 ---
-Travel into Ithaca!
+Your presence is our present.  
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+If you feel obliged to spend money, here are a few of the many places you could give to: 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<ul>
+	<li>Planned Parenthood</li>
+	<li>Special Olympics</li>
+	<li>SPCA</li>
+	<li>Society of Women Engineers</li>
+</ul>
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
