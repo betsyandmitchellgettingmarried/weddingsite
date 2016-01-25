@@ -4,5 +4,38 @@ title:  "Accomodations"
 date:   2016-01-21 08:24:29 -0500
 categories: jekyll update
 ---
-Travel into Ithaca!
 
+<div class="home">
+<table cellspacing="100">
+  <tr>
+	<ul class="post-list">
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+		<th>
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% endif %}
+        {% endfor %}
+
+</div>
+
+
+<!--
+
+<table cellspacing="25">
+  <tr>
+	<ul class="post-list">
+		<th>
+        		<a href="/weddingsite/jekyll/update/camp.html">blah</a>
+		</th>
+	</ul>
+  </tr>
+</table> 
+
+// code below moves the text's location on screen.
+    <nav class="site-nav">
+    </nav>
+
+      <div class="trigger">
+      </div>
+
+-->

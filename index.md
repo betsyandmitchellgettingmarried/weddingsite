@@ -32,7 +32,7 @@ layout: default
   </ul>
 -->
 	
- <table cellspacing="25">
+<table cellspacing="25">
   <tr>
 	<ul class="post-list">
 	    {% for post in site.posts %}

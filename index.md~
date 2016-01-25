@@ -8,7 +8,7 @@ layout: default
   <h1 class="page-heading">Welcome to our wedding website. We are so excited to have you!</h1>
 	<h2 class="page-heading">Check back every so often. We will be making updates.</h2>
 
-<img src="/images/chestnut.jpeg" alt="HTML5 Icon" style="width:200px;height:500px;"> 
+<img src="{{ site.baseurl }}/images/chestnut.jpeg" alt="HTML5 Icon" style="width:200px;height:500px;"> 
 
 </div>
 
