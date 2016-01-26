@@ -6,12 +6,12 @@ categories: jekyll update
 ---
 Your presence is our present.  
 
-If you feel obliged to spend money, here are a few of the many places you could give to: 
+If you feel monetarily obliged, here are a few of the many places you could give to: 
 
 <ul>
-	<li>Planned Parenthood</li>
-	<li>Special Olympics</li>
-	<li>SPCA</li>
-	<li>Society of Women Engineers</li>
+	<li><a class="page-link" href="https://www.aspca.org/">Society for the Prevention of Cruelty to Animals</a></li>
+	<li><a class="page-link" href="http://societyofwomenengineers.swe.org/">Society of Women Engineers</a></li>
+	<li><a class="page-link" href="http://www.specialolympics.org/">Special Olympics</a></li>
+	<li><a class="page-link" href="https://www.plannedparenthood.org/">Planned Parenthood</a></li>
 </ul>
 

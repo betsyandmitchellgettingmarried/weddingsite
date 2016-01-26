@@ -6,15 +6,32 @@ categories: jekyll update
 ---
 
 <div class="home">
-<table cellspacing="100">
-  <tr>
+<table>
+<col width="315">
+ 	<tr>
 	<ul class="post-list">
         {% for my_page in site.pages %}
           {% if my_page.title %}
-		<th>
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+		<td>
+		<b>
+        	  <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>	         	
+		</b>
+		</td>
+	 {% endif %}	
+	 {% endfor %}
+	</tr>
+</table>
+
+<table cellspacing="10">
+	<tr>
+		<td>
+			<img src="{{ site.baseurl }}/images/rht_edit.jpeg" alt="Robert Treman State Park" style="width:300px;height:400px;">  
+		</td>
+		<td>
+			<img src="{{ site.baseurl }}/images/hotel_edit.jpeg" alt="HTML5 Icon" style="width:300px;height:400px;">  
+		</td>
+	</tr>
+</table>
 
 </div>
 

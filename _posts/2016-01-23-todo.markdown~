@@ -4,18 +4,25 @@ title:  "To Do"
 date:   2016-01-20 08:24:29 -0500
 categories: jekyll update
 ---
-Travel into Ithaca!
+Wow! If you're on this page, it means we haven't tired you out yet. Kudos!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Here is our list of Ithaca coffee places to try in order from most snooty/la-dee-da to most friendly/at-home-wrapped-in-a-warm-blanket:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<ol>
+	<li>Press Cafe</li>
+	<li>Carriage House Cafe</li>
+	<li>Gimme! Coffee</li>
+	<li>Collegetown Bagels</li>
+	<li>Hal's Deli</li>
+</ol>
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+We might try to have a tour of the Cornell campus on Saturday. TBD. Check back later.
+
+Ithaca has a lovely <a class="page-link" href="http://www.ithacamarket.com/">farmer's market</a>. 
+Steamboat Landing. 545 3rd St. Ithaca, NY 14850.
+
+Gorges. Ithaca is them. You can visit one of the many close and lovely state parks: Robert H. Treman, Buttermilk, or Taughannock. Or walk through downtown to Cascadilla Creek Falls or Ithaca Falls.  	
+
+Winery's. Google them yourself.
+
+If you've made it this far, you've won. Good job. 

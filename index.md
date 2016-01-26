@@ -5,10 +5,9 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Welcome to our wedding website. We are so excited to have you!</h1>
-	<h2 class="page-heading">Check back every so often. We will be making updates.</h2>
+  <h1 class="page-heading">Welcome to our wedding website. We are so excited to have you!<br>Check back every so often. We will be making updates.</h1>
 
-<img src="{{ site.baseurl }}/images/chestnut.jpeg" alt="HTML5 Icon" style="width:200px;height:500px;"> 
+<img src="{{ site.baseurl }}/images/chestnut.jpeg" alt="HTML5 Icon" style="width:400px;height:500px;"> 
 
 </div>
 
@@ -32,7 +31,7 @@ layout: default
   </ul>
 -->
 	
-<table cellspacing="25">
+<table cellspacing="18">
   <tr>
 	<ul class="post-list">
 	    {% for post in site.posts %}
