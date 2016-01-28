@@ -15,7 +15,7 @@ categories: jekyll update
 
 Please RSVP to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-A reception will immediately follow the ceremony. Dinner, drinks and hors d'oeurves will be served, though not necessarily in that order. Please indicate any dietary restrictions in your RSVP.  
+A reception will immediately follow the ceremony. Dinner, drinks and hors d'oeuvres will be served, though not necessarily in that order. Please indicate any dietary restrictions in your RSVP.  
 
 The ceremony will be outside. You may want to choose flats or chunky heels, and you might appreciate a light sweater.  
 
