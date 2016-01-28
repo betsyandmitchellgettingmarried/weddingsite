@@ -19,7 +19,7 @@ We will shuttle you to and from the airport as well as to and from the wedding a
 
 If you have a tent, please bring it. For those without tents, mention in your RSVP that you will be requiring assistance to camp, and we'll figure it out.
 
-There are also camper cabins available if you're into a more noveau-chic camping experience.
+There are also camper cabins available if you're into a more nouveau-chic camping experience.
 
 <!--
 	
