@@ -5,9 +5,9 @@ date:   2016-01-22 08:24:29 -0500
 categories: jekyll update
 ---
 
-<img src="{{ site.baseurl }}/images/ithaca.jpeg" alt="HTML5 Icon" style="width:700px;height:250px;">  
+<img src="{{ site.baseurl }}/images/ithaca.jpeg" alt="HTML5 Icon" style="width:600px;height:250px;">  
 
 The Ithaca airport (ITH): Gateway to the bustling hub of economic activity that is Upstate New York.  
-If you fly into Ithaca, send us your travel your itinerary. We will arrange a shuttle to and from the hotel/campsite.  
+If you fly into Ithaca, send us your travel itinerary. We will arrange a shuttle to and from the hotel/campsite.  
 
 Other viable airports include Syracuse (SYR) and Elmira/Corning (ELM). You are on your own shuttling from these.

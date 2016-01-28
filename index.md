@@ -5,7 +5,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Welcome to our wedding website. We are so excited to have you!<br>Check back every so often. We will be making updates.</h1>
+  <h1 class="page-heading">Welcome to our wedding website. We are so excited to have you!<br>Check back every so often as we will be making updates.</h1>
 
 <img src="{{ site.baseurl }}/images/chestnut.jpeg" alt="HTML5 Icon" style="width:400px;height:500px;"> 
 
@@ -13,7 +13,7 @@ layout: default
 
 <div class="home">
 	<h3>
-		<p>September 3, 2016<br>4:30 PM EST<br>Newhart's Lodge<br>172 Griffin Rd, Newfield, NY 14867</p>
+		<p>September 3, 2016<br>4:15 PM<br>Newhart's Lodge<br>172 Griffin Rd<br>Newfield, NY 14867</p>
 	</h3>
 </div>
 

@@ -5,6 +5,8 @@ date:   2016-01-21 08:24:29 -0500
 categories: jekyll update
 ---
 
+We have arranged for two options for your stay in Ithaca. 
+
 <div class="home">
 <table>
 <col width="315">
