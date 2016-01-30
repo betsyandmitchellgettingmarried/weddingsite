@@ -13,7 +13,7 @@ layout: default
 
 <div class="home">
 	<h3>
-		<p>September 3, 2016<br>4:15 PM<br>Newhart's Lodge<br>172 Griffin Rd<br>Newfield, NY 14867</p>
+		<p>Saturday, September 3, 2016<br>4:15 PM<br>Newhart's Lodge<br>172 Griffin Rd<br>Newfield, NY 14867</p>
 	</h3>
 </div>
 
@@ -31,17 +31,6 @@ layout: default
   </ul>
 -->
 	
-<table cellspacing="18">
-  <tr>
-	<ul class="post-list">
-	    {% for post in site.posts %}
-		<th>
-        		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><font size="4">{{ post.title }}</font></a>
-		</th>
-		</li>
-	    {% endfor %}
-	</ul>
-  </tr>
-</table> 
+ 
 
 
