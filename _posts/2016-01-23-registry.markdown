@@ -9,10 +9,12 @@ Your presence is our present.
 If you feel monetarily obliged, here are a few of the many places you could give to: 
 
 <ul>
+	<li><a class="page-link" href="http://www.pdf.org/">Parkinson's Disease Foundation</a></li>
 	<li><a class="page-link" href="https://www.aspca.org/">Society for the Prevention of Cruelty to Animals</a></li>
 	<li><a class="page-link" href="http://societyofwomenengineers.swe.org/">Society of Women Engineers</a></li>
 	<li><a class="page-link" href="http://www.specialolympics.org/">Special Olympics</a></li>
 	<li><a class="page-link" href="https://www.plannedparenthood.org/">Planned Parenthood</a></li>
 	<li><a class="page-link" href="http://www.hrc.org/">Human Rights Campaign</a></li>
+	<li><a class="page-link" href="http://yourcpf.org/">Cerebral Palsy Foundation</a></li>
 </ul>
 
